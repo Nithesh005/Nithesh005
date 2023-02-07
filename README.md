@@ -70,7 +70,7 @@ GitHub Stats :-
 
 
 <details>
-  <summary><b>Stats</b></summary>
+  <summary><b>Eco System adaptability</b></summary>
 <!-- 
 ![stats](https://github-readme-stats.vercel.app/api?username=char-al&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&no-bg=true&no-frame=true&column=4&theme=algolia) -->
