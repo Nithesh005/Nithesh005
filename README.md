@@ -28,7 +28,7 @@ GitHub Stats :-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithesh005)  <!-- &theme=radical-->
 
 <details>
-    <summary><b>Click for GitHub Stats</b></summary>
+    <summary><b>Algorithm and data structure</b></summary>
 <p align="center">
 <!--     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alwinw&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
@@ -37,7 +37,7 @@ GitHub Stats :-
 </details>
 
 <details>
-  <summary><b>Where to find me</b></summary>
+  <summary><b>React Native</b></summary>
 <!-- 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Char-Al)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/charles-van-goethem/)
@@ -51,7 +51,7 @@ GitHub Stats :-
 
 
 <details>
-  <summary><b>Skills</b></summary>
+  <summary><b>Code Analysing and Debuging</b></summary>
 <!-- 
 [![python](https://img.shields.io/badge/python-★★★-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![perl](https://img.shields.io/badge/perl-★★☆-lightgrey?labelColor=39457E&logo=Perl&style=for-the-badge&logoColor=white)](https://www.perl.org/)
@@ -61,33 +61,19 @@ GitHub Stats :-
 
 
 <details>
-  <summary><b>OS & Tools</b></summary>
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
-![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
+  <summary><b>Familar with Windows OS</b></summary>
 <!-- 
-![atom](https://img.shields.io/badge/-atom-66595C?logo=Atom&style=for-the-badge&logoColor=white)
-![vim](https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white)
-![Rstudio](https://img.shields.io/badge/-Rstudio-75AADB?logo=RStudio&style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
+![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white) -->
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
-![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=Overleaf&style=for-the-badge&logoColor=white)
-![Vercel](https://img.shields.io/badge/-vercel-000000?logo=Vercel&style=for-the-badge&logoColor=white)
-
-![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge&logoColor=white)
-![flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=for-the-badge&logoColor=white)
-![Pelican](https://img.shields.io/badge/-Pelican-14A0C4?logo=Pelican&style=for-the-badge&logoColor=white)
-![jinja](https://img.shields.io/badge/-jinja-B41717?logo=Jinja&style=for-the-badge&logoColor=white)
- -->
 </details>
 
 
 <details>
   <summary><b>Stats</b></summary>
-
+<!-- 
 ![stats](https://github-readme-stats.vercel.app/api?username=char-al&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&no-bg=true&no-frame=true&column=4&theme=algolia)
+![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&no-bg=true&no-frame=true&column=4&theme=algolia) -->
 
 <!-- ![graph](https://activity-graph.herokuapp.com/graph?username=char-al&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true) -->
 </details>
