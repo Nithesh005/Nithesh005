@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nitheshwaran</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 <!-- - 👨‍💻 All of my projects are available at [http://nitheshwaran.000webhostapp.com/](http://nitheshwaran.000webhostapp.com/) -->
 
@@ -23,9 +23,6 @@
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-GitHub Stats :-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithesh005)  <!-- &theme=radical-->
 
 <details>
     <summary><b>Algorithm and data structure</b></summary>
