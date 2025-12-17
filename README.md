@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Backend Software Engineer with 2.5+ years of experience** building secure, scalable, and high-performance backend systems.  
+I'm a **Backend Software Engineer with 2.7+ years of experience** building secure, scalable, and high-performance backend systems.  
 I enjoy working on **real-world products**, especially in the **fintech domain**, where reliability and security matter the most.
 
 I focus on:
